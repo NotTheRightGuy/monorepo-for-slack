@@ -1,6 +1,6 @@
 {
     "name": "@notjanmejay/visualization",
-    "version": "0.3.8",
+    "version": "0.3.9",
     "description": "Visualization tools for research",
     "main": "index.js",
     "scripts": {
