@@ -1,1 +1,1 @@
-console.log("changes to visualization");
+console.log("changes to visualizatio");
