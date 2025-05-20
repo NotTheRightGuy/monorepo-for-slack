@@ -1,3 +1,1 @@
-console.log(
-    "changes to viss, Checking for package changes in visualizations, meow meow"
-);
+console.log("Dummy changes to the visualization folder");

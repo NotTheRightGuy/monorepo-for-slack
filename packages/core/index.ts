@@ -1,1 +1,1 @@
-console.log("changes to the core pakcages and dummy changes meow");
+console.log("Dummy changes to the core folder");
