@@ -1,1 +1,1 @@
-console.log("Package changes to utils folder, Dummy changes");
+console.log("Package changes to utils folder, Dummy changes to utils");
