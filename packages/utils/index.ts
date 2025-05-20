@@ -1,1 +1,1 @@
-console.log("Dummy changes to utils folder. Meow");
+console.log("Dummy changes to utils folder.");

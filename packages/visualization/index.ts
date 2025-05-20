@@ -1,1 +1,1 @@
-console.log("Dummy changes to the visualization folder. Meow");
+console.log("Dummy changes to the visualization folder.");
