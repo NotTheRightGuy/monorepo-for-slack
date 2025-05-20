@@ -1,1 +1,1 @@
-console.log("changes to visualizations, Checking for pakcage changes");
+console.log("changes to visualizations, Checking for package changes");
