@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/NotTheRightGuy/monorepo-for-slack/compare/v0.2.2...v0.3.0) (2025-05-20)
+
+
+### Features
+
+* Made change to all packages ([da56eb0](https://github.com/NotTheRightGuy/monorepo-for-slack/commit/da56eb043dec29ffeac511af7be0aadb924ec9da))
+
+
+
+
+
 ## [0.2.2](https://github.com/NotTheRightGuy/monorepo-for-slack/compare/v0.2.1...v0.2.2) (2025-05-20)
 
 **Note:** Version bump only for package @notjanmejay/core
