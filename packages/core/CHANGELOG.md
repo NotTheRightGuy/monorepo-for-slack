@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/NotTheRightGuy/monorepo-for-slack/compare/v0.3.9...v0.4.0) (2025-05-20)
+
+
+### Features
+
+* Final changes to the slack-bot integration ([0c64207](https://github.com/NotTheRightGuy/monorepo-for-slack/commit/0c6420705eeea5c607fc294a0ff083a97fd4d092))
+
+
+
+
+
 ## [0.3.9](https://github.com/NotTheRightGuy/monorepo-for-slack/compare/v0.3.8...v0.3.9) (2025-05-20)
 
 **Note:** Version bump only for package @notjanmejay/core
