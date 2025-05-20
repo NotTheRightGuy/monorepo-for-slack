@@ -1,3 +1,3 @@
 console.log(
-    "Dummy changes to experiments folder, Checking for package changes in experiments packages to check int"
+    "Dummy changes to experiments folder, Checking for package changes in experiments packages to check meow"
 );
