@@ -1,1 +1,1 @@
-console.log("Checking for slack messag");
+console.log("changes to core");
