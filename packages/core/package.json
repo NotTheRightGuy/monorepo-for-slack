@@ -1,6 +1,6 @@
 {
     "name": "@notjanmejay/core",
-    "version": "0.4.3",
+    "version": "0.0.1",
     "description": "Core functionality for research",
     "main": "index.js",
     "scripts": {
