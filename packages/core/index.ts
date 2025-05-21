@@ -1,1 +1,1 @@
-console.log("Dummy changes to the core folder, Meow");
+console.log("Dummy changes to the core folder");
